@@ -1,12 +1,11 @@
 name: biophys
 channels:
-  - defaults
   - conda-forge
 dependencies:
   - python=3.11
-  - astropy
-  - pandas
   - matplotlib
   - numpy 
   - scipy
   - ipympl
+  - ipywidgets
+
